@@ -1,6 +1,6 @@
 #最終目的
 
-## *農業のSNS ANS(AgricultureNetworkingService)を牛耳る*
+## *農業のSNS 🌾 ANS(AgricultureNetworkingService)を牛耳る*
 
 # 田んぼ前線仕様
 
