@@ -1,6 +1,6 @@
-#:rice_ball:最終目的:rice_ball:
+#:rice_ball:最終目的:rice::
 
-## *農業のSNS 🌾 ANS(AgricultureNetworkingService)を牛耳る*
+## *農業のSNS :ear_of_rice: ANS(AgricultureNetworkingService)を牛耳る :rice_scene: *
 
 # 田んぼ前線仕様
 
@@ -50,7 +50,7 @@ My田んぼは複数登録できる。
 フォロワーにのみ公開するなど
 
 ### 田んぼ情報表示フィルター
-フォロワーの田んぼのみ表示など
+フォローの田んぼのみ表示など
 
 ## 画面イメージ
 ![](TOP.PNG)
