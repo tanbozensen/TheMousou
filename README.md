@@ -1,4 +1,4 @@
-#:rice_ball:最終目的:rice::
+#:rice_ball:最終目的:rice:
 
 ## *農業のSNS :ear_of_rice: ANS(AgricultureNetworkingService)を牛耳る :rice_scene: *
 
